@@ -2,7 +2,7 @@
 # 👁️ Eye-Controlled Mouse – Hands-Free Cursor Control  
 
 Control your computer with **just your eyes** — no hands required. This intelligent, accessibility-focused project lets users move the cursor and perform mouse clicks using **eye movement and blinks**, built entirely in Python,
-this AI-powered solution makes computer interaction more accessible for everyone, especially users with physical disabilities.
+his AI-powered solution makes computer interaction more accessible for everyone, especially users with physical disabilities.
 
 ---
 
@@ -36,11 +36,11 @@ This project explores how **AI and Computer Vision** can improve accessibility f
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-
 Run the script:
 python eye_controlled_mouse.py
 
 👨‍💻 Developed By
 Abdul Salam — AI Engineer & Computer Vision Developer
 📍 Pakistan | Passionate about building AI that solves real-world problems
-🔗 https://www.linkedin.com/in/abdul-salam-069a06369/
+🔗 LinkedIn
+
