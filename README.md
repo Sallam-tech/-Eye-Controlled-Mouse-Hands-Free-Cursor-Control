@@ -43,4 +43,4 @@ python eye_controlled_mouse.py
 👨‍💻 Developed By
 Abdul Salam — AI Engineer & Computer Vision Developer
 📍 Pakistan | Passionate about building AI that solves real-world problems
-🔗 LinkedIn
+🔗 https://www.linkedin.com/in/abdul-salam-069a06369/
